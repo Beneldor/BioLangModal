@@ -60,6 +60,5 @@ Papers are ranked chronologically.
 
 
 ## Acknowledgement
-This repo is inspired by [Awesome Bio-Foundation Models](https://github.com/apeterswu/Awesome-Bio-Foundation-Models).
-
-[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/apeterswu/Awesome-Bio-Foundation-Models) [![Stars](https://img.shields.io/github/stars/apeterswu/Awesome-Bio-Foundation-Models?color=yellow&style=social)](https://github.com/apeterswu/Awesome-Bio-Foundation-Models)
+This repo is inspired by the *Awesome Bio-Foundation Models* project.
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/apeterswu/Awesome-Bio-Foundation-Models) ![Stars](https://img.shields.io/github/stars/apeterswu/Awesome-Bio-Foundation-Models?color=yellow&style=social)
